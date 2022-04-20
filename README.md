@@ -17,12 +17,8 @@
   ##
  
 <div> 
- <a href="https://discord.gg/PedroNH7#7624" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedroneveshespanhol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-neves-hespanhol-a00a44185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/PedroNevesHespanhol/PedroNevesHespanhol/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/pedro-neves-hespanhol-a00a44185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
