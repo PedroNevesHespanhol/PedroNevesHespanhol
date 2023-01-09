@@ -2,7 +2,7 @@
  
  <div align="center">
   <a href="https://github.com/PedroNevesHespanhol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNevesHespanhol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNevesHespanhol&show_icons=true&hide_rank=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNevesHespanhol&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
