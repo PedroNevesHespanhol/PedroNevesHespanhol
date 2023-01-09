@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @PedroNevesHespanhol
-- 👀 I’m interested in front-end development  
-- 🌱 I’m currently learning Multiplataform Software Development at Fatec Franca 
-- 💞️ I’m looking to collaborate on clean codes and good softwares
+  - 👋 Hi, I’m @PedroNevesHespanhol
+  - 👀 I’m interested in front-end development  
+  - 🌱 I’m currently learning Multiplataform Software Development at Fatec Franca 
+  - 💞️ I’m looking to collaborate on clean codes and good softwares
  
  <div align="center">
   <a href="https://github.com/PedroNevesHespanhol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNevesHespanhol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNevesHespanhol&theme=dracula"/>
 </div>
 
 <div> 
