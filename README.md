@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Neves, a Developer on the rise!!!
+## Hi, I'm Pedro Neves, a Software Developer on the rise!!!
  
  <div align="center">
   <a href="https://github.com/PedroNevesHespanhol">
