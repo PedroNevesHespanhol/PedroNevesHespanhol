@@ -27,7 +27,8 @@
   <a href="https://www.linkedin.com/in/pedro-neves-hespanhol-a00a44185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ##
-  
+
+  ![snake gif](https://github.com/PedroNevesHespanhol/PedroNevesHespanhol/blob/output/github-contribution-grid-snake.svg)
 
 
 
