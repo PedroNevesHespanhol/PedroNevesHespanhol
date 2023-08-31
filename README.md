@@ -28,7 +28,6 @@
   
   ##
   
-  ![snake gif](https://github.com/PedroNevesHespanhol/PedroNevesHespanhol/blob/output/github-contribution-grid-snake.svg)
 
 
 
