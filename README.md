@@ -1,35 +1,20 @@
-## Hi, I'm Pedro Neves, a Software Developer on the rise!!!
- 
- <div align="center">
-  
-  <a href="https://github.com/PedroNevesHespanhol">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNevesHespanhol&theme=dracula&show_icons=true" />
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNevesHespanhol&layout=donut&theme=dracula"/>
-</div>
-  
-   ##
+## 👋 Hi, I'm Pedro Neves, a Back-end Developer on the rise!!! 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ Sou um desenvolvedor back-end com um ano de experiência no campo da tecnologia. Minha expertise abrange uma variedade de linguagens e tecnologias, incluindo Java, HTML, CSS e SQL.
 
- <h3> Technologies: </h3> 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Pedro-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Pedro-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Pedro-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-  
-##
+## 💻 Status
+[![card](https://github-readme-stats.vercel.app/api?username=PedroNevesHespanhol&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![PedroNevesHespanhol](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNevesHespanhol&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🚀 Minhas Skills
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-  <h3 style='left'>:earth_americas: &nbsp;Where find me:</h3>
-  <a href = "mailto:pedroneveshespanhol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-neves-hespanhol-a00a44185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ##
-
-  ![snake gif](https://github.com/PedroNevesHespanhol/PedroNevesHespanhol/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+## 🌎 Where find me:
+<a href = "mailto:pedroneveshespanhol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-neves-hespanhol-a00a44185" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
